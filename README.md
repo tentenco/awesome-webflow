@@ -2,6 +2,8 @@
 
 这个repository包含了你在使用Webflow时需要知道的所有重要资源和工具。[Webflow](https://webflow.com)是一个强大的视觉化网站建设平台，让设计师和开发者能够创建专业级的网站，无需编写代码。
 
+![](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.06.18-PM.png)
+
 ### 什么是 Webflow
 
 [Webflow](https://webflow.com)是一个美国公司开发的软件即服务(SaaS)平台，总部位于旧金山，专门提供网站建设和讬管服务。这个平台最大的特色是让你可以透过视觉化拖拽介面来设计、建立和发布网站，类似于[Wix](https://wix.com)或[Squarespace](https://squarespace.com)，但提供更多的设计弹性。
@@ -18,6 +20,8 @@ Webflow的学习曲线相对陡峭，但一旦掌握，你就能获得强大的�
 
 使用Webflow的一个重要优势是它能够生成干净、符合W3C标准的语义化代码。这意味着你的网站不仅在视觉上出色，在技术层面也很优秀，有利于SEO和网站效能。
 
+![](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.06.09-PM.jpeg)
+
 ### Webflow 资源
 
 Webflow提供了丰富的学习资源来帮助用户掌握平台。[Webflow University](https://university.webflow.com)是官方的学习平台，提供免费的影片课程和交互式学习资源。这里包含了从基础到进阶的各种课程，包括“Webflow 101”、“Getting started with Webflow”等课程。
@@ -25,6 +29,9 @@ Webflow提供了丰富的学习资源来帮助用户掌握平台。[Webflow Univ
 除了正式课程外，Webflow University还提供了一些有趣的交互式学习游戏，如Layout Game、Grid Game、Flexbox Game等，让学习过程更加有趣。这些游戏化的学习工具能够帮助你更好地理解CSS Grid、Flexbox等重要概念。
 
 官方社群论坛也是一个重要的资源，你可以在这里找到其他用户的讨论和解决方案。论坛涵盖了从基础问题到进阶开发技巧的各种主题。
+
+![本土化 为世界各地的访客定制您的网站 从设计到翻译再到一流的 SEO，Webflow Localization 是一种端到端解决方案，可针对全球受众定制您的网站。](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.08.07-PM.png)
+
 
 ### Webflow 初学者指南
 
@@ -36,6 +43,7 @@ Webflow提供了丰富的学习资源来帮助用户掌握平台。[Webflow Univ
 
 如果需要的话，第六步是设置CMS。Webflow的CMS功能非常强大，可以管理动态内容。最后一步是测试和发布你的网站。
 
+![](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.06.28-PM.png)
 ---
 
 ### Webflow 社群最热门讨论主题
@@ -103,6 +111,10 @@ Webflow提供了丰富的学习资源来帮助用户掌握平台。[Webflow Univ
 | [Typeform](https://typeform.com) | 表单建立工具 | 提升SEO表现 | 加速上市时间和实验 |
 | [Grubhub](https://grubhub.com) | 外送平台 | 7周内上线 | 病毒式品牌时刻的实现 |
 
+
+![自定义您的语言环境 直接在 Webflow 中设计、构建和定制本地化网站 — 直观，无需编写代码。](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.08.56-PM.png)
+
+
 ---
 
 ## 主机效能与全球内容传递网络
@@ -153,6 +165,8 @@ A: 最佳的学习方式是透过Webflow University的官方课程。他们提�
 
 ---
 
+![受到全球 300,000 多个领先品牌的信赖](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.09.55-PM.png)
+
 #### More Webflow Insights
 
 - [SEO - Tenten AI: 探索人工智能的无限可能，科技新闻深度解析](https://tenten.co/learning/tag/seo/)
@@ -192,6 +206,8 @@ A: 最佳的学习方式是透过Webflow University的官方课程。他们提�
 
 ---
 
+![与 Tenten 合作，与我们由超过 2000 营销人员、设计师和创意机构组成的蓬勃发展的社区一起发展您的业务。](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.11.26-PM.png)
+
 ## 专业数码服务，助您建立卓越网站
 
 想要运用Webflow建立一个真正出色的网站，或需要专业的数码行销策略来提升您的线上业务？**Tenten**拥有丰富的网站开发经验和数码行销专业知识，能够为您提供从网站设计、开发到行销推广的一站式解决方案。
@@ -199,3 +215,5 @@ A: 最佳的学习方式是透过Webflow University的官方课程。他们提�
 我们专精于Webflow开发、响应式设计、SEO优化，以及完整的数码行销策略规划。无论您是需要全新的品牌网站、电商平台，还是想要提升现有网站的效能和转换率，我们都能为您量身打造最适合的解决方案。
 
 准备好让您的数码业务更上一层楼了吗？[立即预约会议](https://tenten.co/contact)，让我们的专家团队为您提供专业谘询服务。
+
+![利用 Webflow 的视觉优先、可组合的 CMS，让您的团队能够创建可转换的品牌网站体验。](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.10.35-PM.png)
