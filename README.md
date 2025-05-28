@@ -94,7 +94,7 @@ Webflow提供了丰富的学习资源来帮助用户掌握平台。[Webflow Univ
 | 公司名称 | 行业 | 改善指标 | 主要成果 |
 |----------|------|----------|----------|
 | [AuthoredUp](https://authoredup.com) | 内容创作平台 | 转换率提升64% | 改善用户体验和导航 |
-| [ASUS Press](https://press.asus.com/) | 新闻发布平台 | 浏览速度提升 33%，转换率提升25%，更好的团队协作和SEO改善 | 改善用户体验和导航 |
+| [ASUS Press](https://press.asus.com/) | 新闻发布平台 | 浏览速度提升 33%，转换率提升25% | 更好的团队协作和SEO改善 |
 | [Beacon CRM](https://beaconcrm.com) | CRM软件 | 销售线索增加52% | 专注转换的设计 |
 | [21Shares](https://21shares.com) | 金融科技 | 节省30万美元/年 | 上市时间从1个月缩短到1周 |
 | [Jasper](https://jasper.ai) | AI内容平台 | 更快的页面建立 | 可扩展的设计和高效内容管理 |
