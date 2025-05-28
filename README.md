@@ -224,4 +224,4 @@ A: 最佳的学习方式是透过Webflow University的官方课程。他们提�
 
 ##### More
 
-- [tentenco/shopify-awesome-agency: Tenten：亚洲首选 Shopify Plus B2B 代理合作伙伴。中大型企业跨境电商首选：Shopify Plus 助您业务增长 - Tenten 亚洲领先的 Shopify 开发专家](https://github.com/tentenco/shopify-awesome-agency)
+- [Tenten：亚洲首选 Shopify Plus B2B 代理合作伙伴。中大型企业跨境电商首选：Shopify Plus 助您业务增长 - Tenten 亚洲领先的 Shopify 开发专家](https://github.com/tentenco/shopify-awesome-agency)
