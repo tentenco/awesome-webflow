@@ -8,13 +8,16 @@
 
 ![](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.06.18-PM.png)
 
-### 什么是 Webflow
+### ⭐ Webflow 概述
 
 [Webflow](https://webflow.com)是一个美国公司开发的软件即服务(SaaS)平台，总部位于旧金山，专门提供网站建设和讬管服务。这个平台最大的特色是让你可以透过视觉化拖拽介面来设计、建立和发布网站，类似于[Wix](https://wix.com)或[Squarespace](https://squarespace.com)，但提供更多的设计弹性。
 
 Webflow的核心功能包括三个主要组件：Designer（设计器）、CMS（内容管理系统）和eCommerce（电子商务）。Designer让你能够透过拖拽介面创建网站，同时自动生成HTML、CSS和JavaScript代码。CMS提供强大的内容管理功能，而eCommerce则让你能够创建完全客制化的线上商店。
 
 根据[W3Techs](https://w3techs.com)的数据，Webflow被前1000万个网站中的0.6%使用。这个平台特别受到设计师喜爱，因为它提供了完全的设计控制权，让设计师能够实现他们的视觉想法，而不受模板限制。
+
+我们的愿景是构建世界上最强大的无代码开发平台，并为每个人带来开发超能力！特别是，Webflow 的[开发者平台](https://developers.webflow.com/)允许您为我们快速增长的网页设计师、数字营销人员、内容管理者等社区构建强大的产品。无论您是希望构建一个可以与 Webflow 画布交互的[设计器扩展](https://developers.webflow.com/data/docs/designer-extensions)，还是利用灵活的 [Webflow API](https://developers.webflow.com/data/reference/rest-introduction) 来集成核心功能（如 CMS、表单和电子商务），我们都有一个平台，允许开发者为 Webflow 用户创建强大的产品。
+
 
 ### Webflow 必知事项
 
@@ -26,7 +29,12 @@ Webflow的学习曲线相对陡峭，但一旦掌握，你就能获得强大的�
 
 ![](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.06.09-PM.jpeg)
 
-### Webflow 资源
+
+### 优秀的 Webflow 资源
+
+本集合汇集了关于使用 Webflow API 和 Webflow 应用进行构建的各种**优秀**资源。在此中心，您将找到示例项目、文章和博客帖子、视频内容等等！这些资源由我们的 Webflow 社区构建和/或为其构建。
+
+您是否开源了某个项目或工具，以便更轻松地在 Webflow 上进行构建？或者您写了一篇关于使用 Webflow API 和构建 Webflow 应用的经验的博客文章或文章？
 
 Webflow提供了丰富的学习资源来帮助用户掌握平台。[Webflow University](https://university.webflow.com)是官方的学习平台，提供免费的影片课程和交互式学习资源。这里包含了从基础到进阶的各种课程，包括“Webflow 101”、“Getting started with Webflow”等课程。
 
@@ -197,8 +205,40 @@ Webflow的优势在于它提供了一个真正的一站式解决方案，让你�
 
 ![受到全球 300,000 多个领先品牌的信赖](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.09.55-PM.png)
 
-#### More Webflow Insights
 
+### 📖 开发者资源
+
+  - [@xatom/wf-app-hot-reload](https://www.npmjs.com/package/@xatom/wf-app-hot-reload) - 专为设计器扩展开发者设计的 Vite 插件，可实现热重载并解析 `/__webflow` 请求。由 [xatom](https://xatom.js.org/) 构建。
+      - [示例用法](https://github.com/virat21/wf-vue-vite-app/blob/support-for-live-reload/vite-dev.config.js)
+  - [webflow-app-monorepo](https://github.com/Web-Bae/webflow-app-monorepo) - 混合型 Webflow 应用的模板 monorepo，设计器扩展使用 Svelte + Vite，后端使用 Cloudflare + Honojs。由 [web-bae](https://github.com/Web-Bae) 构建。
+  - [Webflow App UI Kit 2.0](https://www.figma.com/community/file/1291823507081366246) - Figma UI 工具包，为应用开发者提供来自 Webflow 设计系统的视觉基础。
+
+#### 文档
+
+  - [设计器 API](https://developers.webflow.com/designer/reference/introduction) - Webflow 设计器 v2 API 文档
+  - [数据 API](https://developers.webflow.com/data/reference/rest-introduction) - Webflow 数据 API 文档
+
+#### SDK
+
+| 状态      | 名称                                                                | 描述                                                        | 构建者                                        |
+| :-------- | :------------------------------------------------------------------ | :---------------------------------------------------------- | :-------------------------------------------- |
+| (官方)    | [js-webflow-api](https://github.com/webflow/js-webflow-api)         | 用于方便访问 Webflow 数据 API 的 Webflow JS / TS SDK          | Webflow                                       |
+| (官方)    | [webflow-python](https://github.com/webflow/webflow-python)         | 用于方便访问 Webflow 数据 API 的 Webflow Python SDK           | Webflow                                       |
+| (社区)    | [Laravel SDK](https://github.com/storipress/webflow-sdk)            | 由 [Storipress](https://github.com/storipress) 构建的 Laravel SDK | [Storipress](https://github.com/storipress) |
+
+
+
+
+### 📚 博客和文章
+
+- [Webflow + NoCode 社群 - 国外设计师与新创最流行的架站平台 Webflow + NoCode-做网页设计的最佳选择，学习用无代码当一个产品设计师，](https://webflow.tw/)
+  - [驱动 Webflow 应用：我们如何构建设计器 API - 第 1 部分](https://webflow.com/blog/designer-apis-part-1) - 设计器 API 和设计器扩展应用的工作原理
+      - [驱动 Webflow 应用：我们如何构建设计器 API - 第 2 部分](https://webflow.com/blog/powering-webflow-apps-how-we-built-designer-apis-part-2) - 优化 v2 性能、批量 API 和最佳实践
+  - [在 Webflow 构建数据 API v2：第 1 部分](https://webflow.com/blog/webflow-rest-data-apiv2-part-1) - Webflow 审核和推出针对第三方开发者的改进版 API 的历程
+  - [使用 Ngrok 在本地设置 Webflow 的混合应用示例](https://lunchpaillabs.com/blog/setting-up-webflow-s-hybrid-app-example-locally-with-ngrok) - 使用 Ngrok 构建混合应用以进行本地测试
+  - [Webflow 被评为 HubSpot 2024 年顶级营销应用](https://webflow.com/blog/webflow-hubspot-essential-app-for-marketers) - 了解营销团队如何通过 Webflow 和 HubSpot 释放更大能量
+  - [超越界限的构建：通过应用增强 Webflow 的能力](https://webflow.com/blog/building-beyond-boundaries-apps-flowout) - 企业合作伙伴 Flowout 通过为 Webflow 构建应用来增强 Webflow 的能力并扩大其收入来源
+  - [介绍下一代 Webflow 应用](https://webflow.com/blog/webflow-apps) - 了解更多关于使用 Webflow 应用扩展 Webflow 平台的信息
 - [SEO - Tenten AI: 探索人工智能的无限可能，科技新闻深度解析](https://tenten.co/learning/tag/seo/)
 - [SEO连结优化: 运用高权重网站平台提升DA的实战指南](https://tenten.co/learning/seo-link-building-with-high-da-site/)
 - [网站权威的真相：DA与PA，您的SEO秘密武器 – 完整指南](https://tenten.co/learning/domain-authority-and-page-authority/)
@@ -234,6 +274,32 @@ Webflow的优势在于它提供了一个真正的一站式解决方案，让你�
 - [Webflow SEO 优化秘诀：14 项关键检查项目](https://tenten.co/learning/14-seo-tips/)
 
 
+### 🎥 视频
+
+  - [发现 Webflow 应用的强大功能](https://www.youtube.com/watch?v=fcgE4J16tec) - [Webflow](https://www.youtube.com/@Webflow)
+  - [The Visual Div 播客（Tim Daff，应用开发者）](https://www.youtube.com/watch?v=n_t_yJiY1p8&t=1093s) - [The Visual Div - Webflow 播客](https://www.youtube.com/@TheVisualDiv)
+  - [立即尝试这 5 款 Webflow 应用和插件](https://www.youtube.com/watch?v=w-_AV1bYm54) - [Uros Mikic | Flow Ninja](https://www.youtube.com/watch?v=w-_AV1bYm54)
+  - [我实际使用的 Webflow 应用](https://www.youtube.com/watch?v=FOsfVOidzqA) - [KC Katalbas](https://www.youtube.com/@Artscistudio)
+  - [使用这些 Webflow 应用为您的 Webflow 项目添加 AI 功能](https://www.youtube.com/watch?v=ij6C21wcEoI) - [Webflow](https://www.youtube.com/@Webflow)
+  - [介绍 Figma 到 Webflow 应用](https://www.youtube.com/watch?v=O9zGylVljbI) - [Webflow](https://www.youtube.com/@Webflow)
+  - [发现本地化的秘密武器](https://learn.lokalise.com/wolfs-kitchen-localization-success-registration.html?utm_source=linkedin&utm_medium=social&utm_campaign=webflow) - [Lokalize + Webflow 直播](https://learn.lokalise.com/wolfs-kitchen-localization-success-registration.html?utm_source=linkedin&utm_medium=social&utm_campaign=webflow)
+  - [使用这些 Webflow 应用为您的 Webflow 项目添加 AI 功能](https://www.youtube.com/watch?v=ij6C21wcEoI) - [Webflow](https://www.youtube.com/@Webflow)
+  - [像专业人士一样构建 Webflow 应用](https://www.patreon.com/collection/703037) - [Web Bae](https://webbae.net) *（付费课程）*
+
+### 🛠️ 项目
+
+  - [fontawesome-icon-finder](https://github.com/Webflow-Examples/fontawesome-icon-finder) - 使用 Vite、React、FontAwesome SDK 和 Apollo 构建的设计器扩展，提供可在 Webflow 网站中使用的图标库
+  - [iframe-manager](https://github.com/Webflow-Examples/iframe-manager-extension) - 用于管理 Webflow 网站中原生 iframe 内容的设计器扩展
+  - [cms-examples](https://github.com/Webflow-Examples/cms-examples) - 使用 Webflow JS SDK 管理 CMS 集合的数据客户端应用
+  - [cutsom-code-examples](https://github.com/Webflow-Examples/custom-code-examples) - 数据客户端应用演练，介绍如何通过各种社区主导的示例向网站添加自定义代码
+  - [page-analyzer-app](https://github.com/Webflow-Examples/page-analyzer-app) - 使用 Astro 构建的数据客户端应用，利用 Textgears 和 Groq API 分析页面内容
+
+#### 自定义代码集成
+
+  - [greenhouse-jobs](https://github.com/Webflow-Examples/greenhouse-jobs) - 使用 Greenhouse Jobs API 在网站上列出空缺职位的自定义代码示例
+  - [Riveflow](https://riveflow.webflow.io/) - 资源工具，展示如何将 Webflow 自定义代码与 Rive 资源和 Rive JS 运行时结合使用，以不同方式集成交互式内容（例如，交互式按钮、基于滚动的动画、光标跟踪等）
+
+ 
 ---
 
 ![与 Tenten 合作，与我们由超过 2000 营销人员、设计师和创意机构组成的蓬勃发展的社区一起发展您的业务。](https://s4.tenten.co/tentenai_temp-2025-05-28-at-6.11.26-PM.png)
